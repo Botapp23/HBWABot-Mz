@@ -17,7 +17,7 @@ global.ownername = "꧁R O G E R꧂" // I hming dah tel bawk la
 global.location = "India, Mizoram, Aizawl" // I awmna hmun daha
 global.botname = "HBWABot Mizo" // I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
-global.themeemoji = '🤖'
+global.themeemoji = '🎲'
 global.creator = "919362640836@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
 
 global.ownerNumber = ["919362640836@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
