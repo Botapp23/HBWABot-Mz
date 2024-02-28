@@ -26,7 +26,7 @@ global.sessionName = 'session'
 
 // Sticker Pack Name
 global.packname = "Sticker By"
-global.author = "HBWABot"
+global.author = "R O G E R"
 global.hbmods = "https://herbert70.blogspot.com/"
 //_______________________________________________
 global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
