@@ -17,7 +17,7 @@ global.bot_language = 'lus' // I language code dah tur code hman i hriat loh chu
 //info
 global.owner = ['919366575180'] // I phone number in thlak rawh
 global.ownernumber = '919366575180' // I phone number in thlak rawh
-global.ownername = "꧁R O G E R꧂" // I hming dah tel bawk la
+global.ownername = "꧁Kahuaiber꧂" // I hming dah tel bawk la
 global.location = "India, Mizoram, Aizawl" // I awmna hmun daha
 global.botname = "R O G E R" // I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
@@ -30,17 +30,17 @@ global.sessionName = 'session'
 
 // Sticker Pack Name
 global.packname = "Sticker By"
-global.author = "R O G E R"
+global.author = "Ka huai ber"
 global.hbmods = "https://herbert70.blogspot.com/"
 //_______________________________________________
 global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
 //messages
 global.mess = {
     success: '\n*©HBWABot*!', 
-    admin: 'He features hi chu admin-te chauh hman thei tur a siam a ni!',
-    botAdmin: 'Admin-ah min dah hmasa phawt la chuan ka ti thei ang!',
-    owner: 'He features hi a neitu chauh hman thei tura siam a ni!',
-    group: 'Hei chu group-ah chauh hman thei tura siam a ni!',
+    admin: 'Zawnga i pawr ami🤬!',
+    botAdmin: 'I hmelchhe emai a Ka hnek hrep mai ang che zawnga😡🤬!',
+    owner: 'zong hmelchhepa🤬!',
+    group: 'zonga!',
     private: 'Hei chu private chat-ah chauh hman thei tura siam a ni!',
     bot: 'Hei chu kei mah chauh hman thei tur a siam a ni',
 }
