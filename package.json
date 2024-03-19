@@ -1,12 +1,16 @@
 {
   "name": "HBWABot Mizo",
-  "version": "5.0.0",
+  "version": "5.5.0",
   "description": "Automated whatsapp bot hi nodejs and baileys lib hmanga siam a ni",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
+  "engines":{
+      "node":"20.x",
+      "npm":"10.x"
+   },
   "keywords": [
     "whatsapp",
     "2024"
@@ -14,9 +18,10 @@
   "author": "HBMods",
   "license": "MIT",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.5.0",
+    "@whiskeysockets/baileys": "^6.6.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^4.2.4",
+    "sqlite3": "^5.1.7",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0",
     "@bochilteam/scraper-sosmed": "^1.0.5",
@@ -50,6 +55,7 @@
     "ffmpeg": "^0.0.4",
     "ffmpeg-static": "^5.1.0",
     "form-data": "^4.0.0",
+    "formdata-node": "^5.0.0",
     "figlet": "^1.5.0",
     "file-type": "^16.5.3",
     "fluent-ffmpeg": "^2.1.2",
@@ -64,7 +70,7 @@
     "human-readable": "^0.2.1",
     "javascript-obfuscator": "^4.0.0",
     "jimp": "^0.16.1",
-    "jsdom": "^16.4.0",
+    "jsdom": "^20.0.1",
     "kirbotz-api": "^0.0.2",
     "lowdb": "^2.1.0",
     "mal-scraper": "^2.11.4",
